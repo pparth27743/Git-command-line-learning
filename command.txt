@@ -1,6 +1,10 @@
+***************************** If we want to colne repository and commit the changes and add new files
+
 git clone  -> to copy repository 
 
 git status  -> to check whether repository has been modified or not
+
+git add  -> to put file in staging area (to make file commitable when new file is locally created) 
 
 git commit -a -m "message" -> to commit all the changes in the repository
 
@@ -10,4 +14,20 @@ git log
 
 git push origin master
 
+
+***************************** If we want out repository to go on github then...
+
 git init -> to convert any repository into git repository
+
+git add  -> to put file in stagin area (to make file commitable) 
+
+git remote add origin -> url of new github repository
+
+git commit -a -m
+
+git push origin master
+
+
+
+
+
