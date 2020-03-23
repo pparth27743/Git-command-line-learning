@@ -27,6 +27,8 @@ git commit -a -m
 
 git push origin master
 
+git pull origin master -> If we have done updatation in github repository then reflect those changes into local repository
+
 
 
 
