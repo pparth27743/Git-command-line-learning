@@ -1,0 +1,13 @@
+git clone  -> to copy repository 
+
+git status  -> to check whether repository has been modified or not
+
+git commit -a -m "message" -> to commit all the changes in the repository
+
+git remote
+
+git log 
+
+git push origin master
+
+git init -> to convert any repository into git repository
