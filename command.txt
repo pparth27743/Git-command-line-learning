@@ -1,5 +1,9 @@
 ***************************** If we want to colne repository and commit the changes and add new files
 
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
 git clone  -> to copy repository 
 
 git status  -> to check whether repository has been modified or not
