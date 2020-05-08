@@ -23,9 +23,10 @@ git push origin master
 
 git init -> to convert any repository into git repository
 
-git add  -> to put file in stagin area (to make file commitable) 
+git add filename or foldername -> to put file in stagin area (to make file commitable) 
 
-git remote add origin -> url of new github repository
+#now we have to cerate empty(without readme.md file) repository on github and copy url of that repository
+git remote add origin copied url -> url of new github repository
 
 git commit -a -m
 
