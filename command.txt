@@ -19,7 +19,7 @@ git log
 git push origin master
 
 
-***************************** If we want out repository to go on github then...
+***************************** If we want local repository to go on github then...
 
 git init -> to convert any repository into git repository
 
